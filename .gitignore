@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 # custom
-au_env/*
+au_env
+db.sqlite3
 
 # Distribution / packaging
 .Python
