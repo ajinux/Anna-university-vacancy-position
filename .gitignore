@@ -9,6 +9,7 @@ __pycache__/
 # custom
 au_env
 db.sqlite3
+.idea/
 
 # Distribution / packaging
 .Python
